@@ -8,7 +8,6 @@ from matplotlib import style
 from sklearn.decomposition import PCA
 
 import multiprocessing
-from MulticoreTSNE import MulticoreTSNE
 import numpy as np
 import pandas as pd
 import seaborn as sns
